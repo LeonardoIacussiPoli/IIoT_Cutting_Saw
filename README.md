@@ -1,3 +1,3 @@
-# IIoT_Cutting_Saw
+# IIoT Cutting Saw
 
-
+![](signal_example.png)
