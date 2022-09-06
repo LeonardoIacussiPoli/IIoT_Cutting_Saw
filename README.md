@@ -1,4 +1,4 @@
-# IIoT Cutting Saw
+# IIoT Application on an old wood Cutting Saw
 The general idea of this project is to use a mmachine learning algorithm installed on the STWIN board microprocessor by STMicroelectronics in order to understand when the machine is off, on or when the machine is cutting a wood table. The classification algorithm is based on the accelerometric data coming from the on board three axial accelerometer (ISM330DHCX).
 
 ![](images/system.png)
@@ -19,7 +19,8 @@ The general idea of this project is to use a mmachine learning algorithm install
 
 ### Acquisition parameters
 
-
+- full scale: 2g
+- Output Data Rate: 1666 Hz
 
 <br>
 <br>
