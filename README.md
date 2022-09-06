@@ -40,6 +40,10 @@ The raw signal has been processed in order to make the classification more robus
 
 ## Signal post-processing
 
+The board output is represented directly by the result of the neural network classification and the output has been post processed in order to stabilize the label by applying a moving average. 
+Moreover the Working time and the Cutting time have been calculated and stored on a JSON file in order to send it by MQTT protocol to the node-red application.
+
+
 ![](images/post_processing.png)
 
 
