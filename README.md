@@ -53,6 +53,8 @@ Moreover the Working time and the Cutting time have been calculated and stored o
 
 ## node-red interface
 
+Node-red receives the JSON message through the MQTT Broker and it displays the data in a Graphical User Interface.
+
 ![](images/node_red.png)
 
 
