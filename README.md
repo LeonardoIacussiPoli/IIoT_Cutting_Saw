@@ -1,3 +1,3 @@
 # IIoT Cutting Saw
 
-![](system.png)
+![](images/system.png)
