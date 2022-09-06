@@ -19,7 +19,7 @@ The general idea of this project is to use a mmachine learning algorithm install
 
 ### Acquisition parameters
 
-- full scale: **2g**
+- Full Scale: **2g**
 - Output Data Rate: **1666 Hz**
 
 <br>
@@ -28,6 +28,8 @@ The general idea of this project is to use a mmachine learning algorithm install
 
 
 ## Signal pre-processing
+
+The raw signal has been processed in order to make the classification more robust and the signal pre-processing pipeline is represented in the following diagram. In order to find the correct labels, given the processed signal, an unsupervised clustering algorithm has been implemented.
 
 ![](images/pre_processing.png)
 
