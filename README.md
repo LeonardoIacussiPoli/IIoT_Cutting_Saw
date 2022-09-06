@@ -5,14 +5,11 @@ The general idea of this project is to use a mmachine learning algorithm install
 
 ### Calculation of the cutting tool working time – why is it so important?
 
-Possible prediction of the tool wear
-
-Predictive maintenance (tool changing time)
-Analytics on machine usage
-
-Cutting process optimization 
-
-Energy consuption optimization
+- Possible prediction of the tool wear
+- Predictive maintenance (tool changing time)
+- Analytics on machine usage
+- Cutting process optimization 
+- Energy consuption optimization
 
 
 ![](images/system.png)
